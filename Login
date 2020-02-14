@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>login</title>
+<head>
+<body>
+<form>
+<label>Username:</label>
+<input type="text" placeholder="username" ><br><br><br>
+<label>Password:</label>
+<input type="password" placeholder="password" ><br><br><br>
+<input type="submit" value="Submit">
+</form>
+</body>
+</html>
