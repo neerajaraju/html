@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title>hello</title>
+<style>
+table{
+border-collapse: collapse;  
+            width: 100%;
+}
+th,td{  
+        border: 2px solid yellow;   
+        padding: 1px;
+}
+</style>
+</head>
+<body>
+<table>  
+<tr><th>First_Name</th><th>Last_Name</th><th>Marks</th></tr>  
+<tr><td>Naveen </td><td>Raj</td><td>60</td></tr>  
+<tr><td>Bhavya</td><td>Gopi</td><td>80</td></tr>  
+<tr><td>Charanya</td><td>Sankar</td><td>82</td></tr>  
+</table>
+<br>
+<br>
+<table border="5" border-color="yellow">  
+<tr><th>First_Name</th><th>Last_Name</th><th>Marks</th></tr>  
+<tr><td>Naveen </td><td>Raj</td><td>60</td></tr>  
+<tr><td>Bhavya</td><td>Gopi</td><td>80</td></tr>  
+<tr><td>Charanya</td><td>Sankar</td><td>82</td></tr> 
+</table>
+<table>  
+    <tr>  
+        <th>1 header</th>  
+        <th>1 header</th>  
+        <th>1 header</th>  
+    </tr>  
+    <tr>  
+        <td>1data</td>  
+        <td>1data</td>  
+        <td>1data</td>  
+    </tr>  
+    <tr>  
+        <td>2 data</td>  
+        <td>2 data</td>  
+        <td>2 data</td>  
+    </tr>  
+    <tr>  
+        <td>3 data</td>  
+        <td>3 data</td>  
+        <td>3 data</td>  
+    </tr>  
+</table>
+<table style="width:100%">  
+  <tr>  
+  <th>Name</th>  
+  <th colspan="2">Mobile No.</th>  
+  </tr>  
+  <tr>  
+  <td>Naveen Raj</td>  
+  <td>9876543112</td>  
+  <td>9076543215</td>  
+  </tr>  
+</table> 
+ <table border="1" bgcolor="#98f5ff">  
+   <thead>  
+       <tr>  
+        <th>EmpId</th>  
+        <th>Name</th>  
+        <th>Email-Id</th>     
+       </tr>  
+   </thead>  
+ <tbody>  
+      <tr>  
+        <td>111</td>  
+        <td>Naveen</td>  
+        <td>naveen123@gmail.com</td>  
+      </tr>  
+  
+      <tr>  
+        <td>222</td>  
+        <td>Sankar </td>  
+        <td>sankar@gmail.com</td>  
+      </tr>  
+   </tbody>  
+</table>  
+</body>
+</html>  
