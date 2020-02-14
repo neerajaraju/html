@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title>hello</title>
+</head>
+<body>
+<h2>The type attribute with CSS property</h2>  
+   <ul style="list-style-type:none;">  
+    <li>HTML</li>  
+     <li>Java</li>  
+           <li>JavaScript</li>  
+           <li>SQL</li>  
+    </ul> 
+<dl>  
+  <dt>HTML</dt>  
+  <dd>is a markup language</dd>  
+  <dt>Java</dt>  
+  <dd>is a programming language</dd>  
+ <dt>JavaScript</dt>  
+ <dd>is a scripting language</dd>  
+  <dt>SQL</dt>  
+  <dd>is a query language</dd>   
+</dl>   
+</body>
+</html>  
